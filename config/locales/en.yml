@@ -7,6 +7,7 @@ en:
       not_found: "not found"
       already_confirmed: "was already confirmed, please try signing in"
       not_locked: "was not locked"
+      insecure_password: "is insecure, please use another one"
       not_saved:
         one: "1 error prohibited this %{resource} from being saved:"
         other: "%{count} errors prohibited this %{resource} from being saved:"

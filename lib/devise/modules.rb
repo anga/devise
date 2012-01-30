@@ -27,4 +27,6 @@ Devise.with_options :model => true do |d|
 
   # Stats for last, so we make sure the user is really signed in
   d.add_module :trackable
+
+  d.add_module :secure_password
 end
